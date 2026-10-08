@@ -1,0 +1,321 @@
+[
+  {
+    "slug": "photo-84-2",
+    "title": {
+      "zh": "ISO9001证书",
+      "en": "ISO9001 certificate"
+    },
+    "category": "certificates",
+    "thumbnail": {
+      "src": "/legacy/certificates/590c97c706b6c.jpg",
+      "width": 800,
+      "height": 1132
+    },
+    "images": [
+      {
+        "src": "/legacy/certificates/590c97de97ac2.jpg",
+        "width": 800,
+        "height": 1132
+      },
+      {
+        "src": "/legacy/certificates/590c97de9b7cb.jpg",
+        "width": 800,
+        "height": 1132
+      }
+    ],
+    "source": "/cn/photo/photo-84-2.html"
+  },
+  {
+    "slug": "photo-90-838",
+    "title": {
+      "zh": "GS3118A-B FCC",
+      "en": "GS3118A-B FCC"
+    },
+    "category": "certificates",
+    "thumbnail": {
+      "src": "/legacy/certificates/590c97498c3a7.jpg",
+      "width": 800,
+      "height": 1132
+    },
+    "images": [
+      {
+        "src": "/legacy/certificates/590c97498c3a7.jpg",
+        "width": 800,
+        "height": 1132
+      }
+    ],
+    "source": "/cn/photo/photo-90-838.html"
+  },
+  {
+    "slug": "photo-27-87",
+    "title": {
+      "zh": "GS3118-A-GS3118-B-UL证书",
+      "en": "GS3118-A-GS3118-B-UL"
+    },
+    "category": "general",
+    "thumbnail": {
+      "src": "/legacy/certificates/590c96ff06b6c.jpg",
+      "width": 800,
+      "height": 1131
+    },
+    "images": [
+      {
+        "src": "/legacy/certificates/590c9733d4b52.jpg",
+        "width": 800,
+        "height": 1131
+      },
+      {
+        "src": "/legacy/certificates/590c9734c572e.jpg",
+        "width": 800,
+        "height": 1131
+      }
+    ],
+    "source": "/cn/photo/photo-27-87.html"
+  },
+  {
+    "slug": "photo-81-673",
+    "title": {
+      "zh": "GS3106-A TUV MARK证书",
+      "en": "GS3106-A TUV MARK"
+    },
+    "category": "general",
+    "thumbnail": {
+      "src": "/legacy/certificates/590c9694253b4.jpg",
+      "width": 800,
+      "height": 1131
+    },
+    "images": [
+      {
+        "src": "/legacy/certificates/590c96e543bfc.jpg",
+        "width": 800,
+        "height": 1131
+      },
+      {
+        "src": "/legacy/certificates/590c96e547905.jpg",
+        "width": 800,
+        "height": 1131
+      }
+    ],
+    "source": "/cn/photo/photo-81-673.html"
+  },
+  {
+    "slug": "photo-20-147",
+    "title": {
+      "zh": "GS3099ALVD证书",
+      "en": "GS3099ALVD"
+    },
+    "category": "general",
+    "thumbnail": {
+      "src": "/legacy/certificates/590c95e35e73b.jpg",
+      "width": 800,
+      "height": 1132
+    },
+    "images": [
+      {
+        "src": "/legacy/certificates/590c95ee4f317.jpg",
+        "width": 800,
+        "height": 1132
+      }
+    ],
+    "source": "/cn/photo/photo-20-147.html"
+  },
+  {
+    "slug": "photo-65-112",
+    "title": {
+      "zh": "GS3099A EMC证书",
+      "en": "GS3099A EMC"
+    },
+    "category": "certificates",
+    "thumbnail": {
+      "src": "/legacy/certificates/590c959a7927a.jpg",
+      "width": 800,
+      "height": 1132
+    },
+    "images": [
+      {
+        "src": "/legacy/certificates/590c95a5a31dd.jpg",
+        "width": 800,
+        "height": 1132
+      }
+    ],
+    "source": "/cn/photo/photo-65-112.html"
+  },
+  {
+    "slug": "photo-35-381",
+    "title": {
+      "zh": "GS3078-G-LVD证书",
+      "en": "GS3078-G-LVD"
+    },
+    "category": "certificates",
+    "thumbnail": {
+      "src": "/legacy/certificates/590c94ede7c7f.jpg",
+      "width": 800,
+      "height": 1132
+    },
+    "images": [
+      {
+        "src": "/legacy/certificates/590c94f97cf83.jpg",
+        "width": 800,
+        "height": 1132
+      }
+    ],
+    "source": "/cn/photo/photo-35-381.html"
+  },
+  {
+    "slug": "photo-94-731",
+    "title": {
+      "zh": "GS3078-G CE证书",
+      "en": "GS3078-G CE"
+    },
+    "category": "certificates",
+    "thumbnail": {
+      "src": "/legacy/certificates/590c947f71868.jpg",
+      "width": 800,
+      "height": 1132
+    },
+    "images": [
+      {
+        "src": "/legacy/certificates/590c948c71868.jpg",
+        "width": 800,
+        "height": 1132
+      }
+    ],
+    "source": "/cn/photo/photo-94-731.html"
+  },
+  {
+    "slug": "photo-50-95",
+    "title": {
+      "zh": "GS3078-C GS3078-D GS3088-A SAA",
+      "en": "GS3078-C GS3078-D GS3088-A SAA"
+    },
+    "category": "certificates",
+    "thumbnail": {
+      "src": "/legacy/certificates/590c93a6347d8.jpg",
+      "width": 800,
+      "height": 1112
+    },
+    "images": [
+      {
+        "src": "/legacy/certificates/590c9422c9437.jpg",
+        "width": 800,
+        "height": 1112
+      },
+      {
+        "src": "/legacy/certificates/590c942e71868.jpg",
+        "width": 800,
+        "height": 1178
+      }
+    ],
+    "source": "/cn/photo/photo-50-95.html"
+  },
+  {
+    "slug": "photo-38-912",
+    "title": {
+      "zh": "GS3078-C GS3078-D GS3088-A CE 证书",
+      "en": "GS3078-C GS3078-D GS3088-A CE"
+    },
+    "category": "general",
+    "thumbnail": {
+      "src": "/legacy/certificates/590c930a3c1ea.png",
+      "width": 623,
+      "height": 890
+    },
+    "images": [
+      {
+        "src": "/legacy/certificates/590c9317d885b.png",
+        "width": 623,
+        "height": 890
+      }
+    ],
+    "source": "/cn/photo/photo-38-912.html"
+  },
+  {
+    "slug": "photo-36-539",
+    "title": {
+      "zh": "GS3077-A SAA证书",
+      "en": "GS3077-A SAA"
+    },
+    "category": "certificates",
+    "thumbnail": {
+      "src": "/legacy/certificates/590c9266c9437.jpg",
+      "width": 992,
+      "height": 1403
+    },
+    "images": [
+      {
+        "src": "/legacy/certificates/590c9279a6ee6.jpg",
+        "width": 992,
+        "height": 1403
+      }
+    ],
+    "source": "/cn/photo/photo-36-539.html"
+  },
+  {
+    "slug": "photo-42-689",
+    "title": {
+      "zh": "GS3077-A CE证书",
+      "en": "GS3077-A CE"
+    },
+    "category": "certificates",
+    "thumbnail": {
+      "src": "/legacy/certificates/590c91b193db9.jpg",
+      "width": 992,
+      "height": 1403
+    },
+    "images": [
+      {
+        "src": "/legacy/certificates/590c91bf2cdc6.jpg",
+        "width": 992,
+        "height": 1403
+      }
+    ],
+    "source": "/cn/photo/photo-42-689.html"
+  },
+  {
+    "slug": "photo-76-687",
+    "title": {
+      "zh": "GS3076-A CE证书",
+      "en": "GS3076-A CE"
+    },
+    "category": "certificates",
+    "thumbnail": {
+      "src": "/legacy/certificates/590c8bbaae8f8.jpg",
+      "width": 992,
+      "height": 1403
+    },
+    "images": [
+      {
+        "src": "/legacy/certificates/590c8bcdaabef.jpg",
+        "width": 992,
+        "height": 1403
+      }
+    ],
+    "source": "/cn/photo/photo-76-687.html"
+  },
+  {
+    "slug": "40-60W-TUV",
+    "title": {
+      "zh": "40-60W TUV证书",
+      "en": "40-60W TUV"
+    },
+    "category": "certificates",
+    "thumbnail": {
+      "src": "/legacy/certificates/59016cf32cdc6.png",
+      "width": 1157,
+      "height": 1635
+    },
+    "images": [
+      {
+        "src": "/legacy/certificates/59016cf330acf.png",
+        "width": 1157,
+        "height": 1635
+      },
+      {
+        "src": "/legacy/certificates/59016d5f71868.png",
+        "width": 1157,
+        "height": 1635
+      }
+    ],
+    "source": "/cn/photo/40-60W-TUV.html"
+  }
+]

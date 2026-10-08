@@ -1,0 +1,16 @@
+{
+  "source": "https://spsystems.co.kr/kr/index.php",
+  "date": "2026-09-29",
+  "scope": "homepage",
+  "capture": "Browser screenshots and selected computed styles; not an exhaustive token extraction",
+  "observed": {"headerHeight": "80px", "sectionLabelColor": "#0092e2", "sectionLabelSize": "18.39px", "productTitleSize": "20.23px", "fontFamilies": ["Poppins", "S-CoreDream", "Noto Sans KR"]},
+  "adaptation": {
+    "colors": {"text": "#17221d", "brand": "#216345", "darkSection": "#173a2d", "accentOnDark": "#b2d49d"},
+    "contentMaxWidth": "1320px",
+    "sectionPadding": {"desktop": "120px", "mobile": "80px"},
+    "heroTitle": {"desktop": "clamp(48px, 5.25vw, 84px)", "mobile": "37px"},
+    "navigationBreakpoint": "800px",
+    "principles": ["Full-bleed application scene", "Large editorial sections", "GreenSo brand colors and assets", "One-time motion with reduced-motion support"]
+  },
+  "asset": {"path": "public/images/lighting-architecture.png", "source": "built-in imagegen", "status": "conceptual lighting scene"}
+}
